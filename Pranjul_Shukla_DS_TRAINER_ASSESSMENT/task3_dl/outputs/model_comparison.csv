@@ -1,0 +1,4 @@
+Model,Parameters,Epochs,Training_Time_Seconds,Validation_Accuracy_Percent,Test_Accuracy_Percent,Validation_Loss,Test_Loss
+MLP,235146,24,55.35,89.97,88.38,0.292,0.3323850929737091
+CNN,422026,18,678.0,93.3,92.04,0.2138,0.23708124458789825
+Improved CNN,469098,40,3780.0,93.61,92.44,0.1753,0.20078431069850922
