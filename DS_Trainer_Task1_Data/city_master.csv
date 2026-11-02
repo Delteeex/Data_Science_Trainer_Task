@@ -1,0 +1,35 @@
+city,state,tier,region
+Mumbai,Maharashtra,1,West
+Delhi,Delhi,1,North
+Bengaluru,Karnataka,1,South
+Hyderabad,Telangana,1,South
+Chennai,Tamil Nadu,1,South
+Kolkata,West Bengal,1,East
+Pune,Maharashtra,1,West
+Ahmedabad,Gujarat,1,West
+Jaipur,Rajasthan,2,North
+Lucknow,Uttar Pradesh,2,North
+Surat,Gujarat,2,West
+Indore,Madhya Pradesh,2,Central
+Nagpur,Maharashtra,2,Central
+Chandigarh,Chandigarh,2,North
+Kochi,Kerala,2,South
+Coimbatore,Tamil Nadu,2,South
+Bhopal,Madhya Pradesh,2,Central
+Vadodara,Gujarat,2,West
+Gurugram,Haryana,2,North
+Noida,Uttar Pradesh,2,North
+Visakhapatnam,Andhra Pradesh,2,South
+Patna,Bihar,2,East
+Dehradun,Uttarakhand,3,North
+Ranchi,Jharkhand,3,East
+Guwahati,Assam,3,North-East
+Mysuru,Karnataka,3,South
+Udaipur,Rajasthan,3,North
+Varanasi,Uttar Pradesh,3,North
+Raipur,Chhattisgarh,3,Central
+Madurai,Tamil Nadu,3,South
+Nashik,Maharashtra,3,West
+Jodhpur,Rajasthan,3,North
+Amritsar,Punjab,3,North
+Siliguri,West Bengal,3,East
